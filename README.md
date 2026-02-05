@@ -18,9 +18,13 @@ This project is designed strictly according to classroom discussions and syllabu
 ## Project Structure
 University_Enrollment_System/
 │
+
 ├── .idea/
+
 │   ├── misc.xml
+
 │   ├── modules.xml
+
 │   └── vcs.xml
 │
 ├── src/
