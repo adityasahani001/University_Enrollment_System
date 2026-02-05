@@ -21,23 +21,36 @@ University_Enrollment_System/
 
 ├── .idea/
 
-│   ├── misc.xml
+│        ├── misc.xml
 
-│   ├── modules.xml
+│        ├── modules.xml
 
-│   └── vcs.xml
-│
+│        └── vcs.xml
+
+│        
+
 ├── src/
-│   └── University_Enrollment_System/
-│       ├── Main.java
-│       ├── Person.java
-│       ├── Student.java
-│       ├── Professor.java
-│       ├── Course.java
-│       └── EnrollmentException.java
+
+│   └──  University_Enrollment_System/
+
+│        ├── Main.java
+
+│        ├── Person.java
+
+│        ├── Student.java
+
+│        ├── Professor.java
+
+│        ├── Course.java
+
+│        └── EnrollmentException.java
+
 │
+
 ├── LICENSE
+
 ├── README.md
+
 └── oops_java_project.iml
 
 ---
